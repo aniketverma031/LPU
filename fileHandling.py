@@ -25,8 +25,3 @@
 
 
 
-#1. create 2. display 3. Riase salary 4. exit 
-# enter your name , age(18-60) , desgnation
-#enter your Designation (p25/m30/t20)y/n
-#also add exception handling and file handling'
-# how much percentage of salary should be increased max 30%
